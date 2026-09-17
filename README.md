@@ -45,7 +45,5 @@ python hangman.py
 4. Wrong guesses reduce your attempts.
 5. Guess the complete word before your attempts reach zero.
 
-## 👩‍💻 Author
-
-**Siddhi Deshmukh**
+ 
 
